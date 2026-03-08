@@ -1,4 +1,4 @@
-# SawitPro
+# SauceDemo_RobotFramework
 
 Automated testing project for the Android mobile app (Sauce Labs Demo) using **Robot Framework** and **Appium**.
 
@@ -27,7 +27,7 @@ Each test runs with **full reset** (`fullReset=True`), so every test gets a clea
 ### 1. Clone and enter the project folder
 
 ```bash
-cd SawitPro
+cd SauceDemo_RobotFramework
 ```
 
 ### 2. Create a virtual environment and install Python dependencies
@@ -67,7 +67,7 @@ Make sure at least one device is listed before running tests.
 
 ## Running Tests
 
-Run from the **project root** (SawitPro folder):
+Run from the **project root** (SauceDemo_RobotFramework folder):
 
 ```bash
 # Activate venv if needed
